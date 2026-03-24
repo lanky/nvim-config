@@ -9,6 +9,7 @@ return {
       "ansible-lint",
       "ast-grep",
       "djlint",
+      "docker-language-server",
       "glow",
       "lua-language-server",
       "json-lsp",
