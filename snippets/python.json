@@ -1,0 +1,12 @@
+{
+  "pcm": {
+    "body": [
+      "def parse_cmdline(argv: list[str] = sys.argv[1:]) -> argparse.Namespace:",
+      "    \"\"\"Process commandline arguments.\"\"\"",
+      "    parser = argparse.ArgumentParser(formatter_class=argparse.RawTextHelpFormatter)",
+      "",
+      "    return parser.parse_args()"
+    ],
+    "prefix": "pcm"
+  }
+}
