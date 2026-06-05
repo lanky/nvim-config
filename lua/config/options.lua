@@ -11,3 +11,7 @@ vim.opt.shiftwidth = 0 -- set to 0 to default to tabstop value
 
 vim.opt.background = "dark"
 vim.cmd.colorscheme = "moonfly"
+
+vim.opt.autochdir = true
+
+-- vim.diagnostic.config({ virtual_text = false })
